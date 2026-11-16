@@ -1,2 +1,2 @@
-# Repositório
-primeiro repositório na minha carreira como DEV 
+Controle-estoque-Python
+Sistema Simples de controle de estoque
